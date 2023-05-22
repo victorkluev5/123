@@ -1,0 +1,24 @@
+QWidget{
+    background: rgb(42, 214, 208);
+}
+.QLabel{
+    font-size: 15px;
+    border-radius: 10px;
+}
+.QPushButton{
+    font-size: 15px;
+    background: rgb(175, 251, 104);
+    border-radius: 9px;
+}
+.QPushButton:hover{
+    background: rgb(112, 238, 65);
+    font-size: 11px;
+
+}
+.QLineEdit{
+    border-radius: 9px;
+    background: rgb(245, 245, 245);
+}
+#int:hover{
+    background: rgb(34, 245, 1);
+}
